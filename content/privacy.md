@@ -1,11 +1,13 @@
 ---
-title: "Privacy Disclaimer"
+title: "Privacy Disclaimer - informal"
 date: 2020-03-17T21:49:23+01:00
 draft: false
+type: "custom"
+layout: "single-about"
+weight: 111
 ---
 
----
-## *Informal Disclaimer*
+<br> <br />
 
 
 
