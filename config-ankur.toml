@@ -1,0 +1,81 @@
+baseurl         = "/"
+theme           = "duck-hugo"
+languageCode    = "en-US"
+disqusShortname = ""
+paginate        = 12
+#SectionPagesMenu = "main"
+enableRobotsTXT = true
+enableGitInfo = true
+
+[params]
+  title       = "Ankur Sinha"
+  subtitle    = "Hello, World!"
+  #cover       = "img/blog-cover.jpg"
+  description = "Ankur Sinha's Personal Website. Playing with data constantly, traveling when I have money and time, cooking to relieve from stress, blogging when I have something to write about."
+  metaDescription = ""
+  googleAnalytics = "UA-128810519-1"
+  
+  customCSS = []
+  RSSLink = ""
+  
+  dateformat = "Jan 2, 2006"
+
+  #twitterName = "ansin218"
+  #fbName = "ansin218"
+  githubName = "ansin218"
+  linkedinName = "ansin218"
+  igName = "ansin218"
+  sofName = "1592364/ankur-sinha"
+  quName = "Ankur-Sinha-9"
+
+  #logo = "hugo-logo.png"
+  orgName = "Ankur Sinha"
+  author = "Ankur Sinha"
+  authorAvatar = "img/ankur.jpeg"
+  authorLocation = "Munich, DE"
+  authorWebsite = "https://ankuroh.com"
+  authorDescription = "Playing with data constantly, traveling when I have money and time, cooking to relieve from stress, blogging when I have something to write about."
+  pageNotFoundTitle = "404 - Page not found"
+  singleViewStyle = "casper"
+
+[privacy]
+  [privacy.googleAnalytics]
+    anonymizeIP = true
+    disable = false
+    respectDoNotTrack = true
+    useSessionStorage = false
+
+[permalinks]
+  post = "/:section/:title"
+  programming = "/:section/:title"
+  travelogue = "/:section/:title"
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 200
+
+[[menu.main]]
+  name = "Recipes"
+  url = "/recipes/"
+  weight = 90
+
+[[menu.main]]
+  name = "Travel"
+  url = "/travelogue/"
+  weight = 91
+
+[[menu.main]]
+  name = "Programming"
+  url = "/programming/"
+  weight = 92
+
+[[menu.main]]
+  name = "CV"
+  url = "/cv/"
+  weight = 84
+
+[[menu.main]]
+  name = "TIL"
+  url = "/today-i-learned/"
+  weight = 81
