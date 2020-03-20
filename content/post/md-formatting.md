@@ -1,8 +1,8 @@
 ---
 title: "Markdown formatting example"
 date: 2020-03-14T23:49:54+01:00
-image: "/img/swiss2.jpg"
-draft: true
+image: "https://images2.imgbox.com/16/ee/YzE7lxS2_o.jpg"
+draft: false
 tags: ["africa", "excited"]
 categories: ["travel"]
 ---
@@ -69,7 +69,7 @@ my favorite search engine is [Duck Duck Go](https://duckduckgo.com)
 <https://www.markdownguide.org>
 
 ### 8.3
-<jane0519@gmail.com>
+<someone@gmail.com>
 
 ## 9. add an image
 

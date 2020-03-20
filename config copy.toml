@@ -1,5 +1,5 @@
 baseurl         = "/"
-theme           = "duck-hugo"
+theme           = "hugo-casper-two-master"
 languageCode    = "en-US"
 disqusShortname = ""
 paginate        = 12
@@ -10,9 +10,8 @@ hasCJKLanguage  = true
 
 [params]
   title       = "Nudge"
-  subtitle    = ""
-  #copyright   = "© 2018"
-  copyright   = ""
+  subtitle    = "Bilibili"
+  copyright   = "© 2018"
 
   cover       = "img/blog-cover.jpg"
   description = "To feel the life"
@@ -20,8 +19,6 @@ hasCJKLanguage  = true
   googleAnalytics = ""
   customCSS = []
   RSSLink = ""
-
-  #dateformat = "Jan 2, 2006"
 
   twitterName = ""
   fbName = ""
@@ -56,16 +53,11 @@ hasCJKLanguage  = true
     useSessionStorage = true
 
 [permalinks]
-  post = "/:section/:title"
-  test_folder = "/:section/:title"
-  travel = "/:section/:title"
-  
-  #post = "/post/:slug/"
+  post = "/post/:slug/"
 
-  
 [[menu.main]]
   name = "Home"
-  url = "/"
+  url = "/post/"
   weight = 200
 
 [[menu.main]]
@@ -83,3 +75,7 @@ hasCJKLanguage  = true
   url = "/categories/thoughts/"
   weight = 99
 
+[[menu.main]]
+  name = "External"
+  url = "https://www.ankuroh.com/"
+  weight = 95

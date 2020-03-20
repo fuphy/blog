@@ -1,7 +1,7 @@
 ---
 title: "Privacy Disclaimer"
 date: 2020-03-17T21:49:23+01:00
-draft: true
+draft: false
 ---
 
 ---
