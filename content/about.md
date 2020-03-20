@@ -6,7 +6,7 @@ noauthor: true
 share: true
 title: "About me" 
 type: "custom"
-layout: "single_about"
+layout: "single-about"
 weight: 111
 ---
 

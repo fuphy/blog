@@ -65,7 +65,7 @@ hasCJKLanguage  = true
   
 [[menu.main]]
   name = "Home"
-  url = "/"
+  url = "/post/"
   weight = 200
 
 [[menu.main]]
