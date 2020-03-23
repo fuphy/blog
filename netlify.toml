@@ -4,3 +4,14 @@
   status = 301
   force = true
 
+[[redirects]]
+  from = "https://nudge.netlify.com/"
+  to = "https://nudges.netlify.com/post/"
+  status = 301
+  force = true
+
+  [[redirects]]
+  from = "https://nudges.com/"
+  to = "https://nudges.netlify.com/post/"
+  status = 301
+  force = true
