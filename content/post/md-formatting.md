@@ -2,7 +2,7 @@
 title: "Markdown formatting example"
 date: 2020-03-14T23:49:54+01:00
 image: "https://images2.imgbox.com/16/ee/YzE7lxS2_o.jpg"
-draft: false
+draft: true
 tags: ["africa", "excited"]
 categories: ["travel"]
 ---

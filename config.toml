@@ -9,7 +9,7 @@ enableEmoji     = true
 hasCJKLanguage  = true
 
 [params]
-  title       = "Nudge"
+  title       = "Nudges"
   subtitle    = ""
   #copyright   = "© 2018"
   copyright   = ""
