@@ -10,7 +10,6 @@ weight: 111
 
 
 
-
 1. This is a personal blog and not a business. There is no possibility to subscribe to this blog or comment on any post.
 2. The site has Google Analytics with anonymization function implemented. It collects anonymous data for analytical purpose. For example, which blog gets the most hit, or what is the average time visitors spend on my website. It helps me to improve the quality of the blog and consequently offer better content to my audience. <br> <br />
 Further details please refer to [Google Privacy & Terms](https://policies.google.com/privacy)
