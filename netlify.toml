@@ -1,0 +1,6 @@
+[[redirects]]
+  from = "https://nudges.netlify.com/"
+  to = "https://nudges.netlify.com/post/"
+  status = 301
+  force = true
+
