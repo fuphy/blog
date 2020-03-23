@@ -3,7 +3,7 @@ title: 'Hiking without preparation -  a "deadly" tour in Tegelberg'
 date: 2020-03-15T00:13:57+01:00
 image: "https://images2.imgbox.com/58/b2/1p9TQfLy_o.png"
 draft: false
-tags: ["lazy"]
+tags: ["Alps", "Hiking", "Tegelberg", "Neuschwanstein"]
 categories: ["travel"]
 ---
 

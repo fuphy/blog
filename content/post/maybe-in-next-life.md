@@ -2,7 +2,7 @@
 title: "Maybe in next life"
 date: 2020-03-14T23:50:05+01:00
 draft: false
-tags: ["europe", "Alps"]
+tags: ["Alps", "Zermatt", "Matterhorn"]
 categories: ["travel", "thoughts"]
 image: "https://images2.imgbox.com/24/59/UWe01GRt_o.png"
 ---
