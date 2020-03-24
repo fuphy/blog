@@ -37,5 +37,3 @@ image: https://images2.imgbox.com/ec/6f/uVIfwRZo_o.jpg
 + pour the cut celery pieces in the pan and fry them together 
 + make another sauce by adding **salt, corn starch, white pepper powder and water** 
 + add the sauce to the pan and let it cook for a few minutes
-
-{{< figure src="https://images2.imgbox.com/59/99/jP4mmuGC_o.jpg" height="40%">}}
