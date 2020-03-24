@@ -14,7 +14,7 @@ hasCJKLanguage  = true
   #copyright   = "© 2018"
   copyright   = ""
 
-  cover       = "img/blog-cover.jpg"
+  cover       = "/img/blog-cover.jpg"
   description = "To feel the life"
   metaDescription = ""
   googleAnalytics = "UA-161620484-1"
