@@ -9,6 +9,8 @@ image: https://images2.imgbox.com/ec/6f/uVIfwRZo_o.jpg
 
 {{< figure src="https://images2.imgbox.com/36/fa/JWSQdP7D_o.jpg" >}}
 
+In Chinese, it called *Ji Rou Chao Qin Cai （鸡肉炒芹菜)*
+
 ## Ingredients:
 + chicken
 + celery
