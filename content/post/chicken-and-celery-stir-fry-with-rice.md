@@ -1,5 +1,5 @@
 ---
-title: "Celery Chicken Rice"
+title: "Chicken and Celery Stir-Fry with Rice"
 date: 2020-03-23T23:33:50+01:00
 draft: false
 tags: ["quarantine"]
