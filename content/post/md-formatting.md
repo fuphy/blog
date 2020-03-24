@@ -88,4 +88,12 @@ my favorite search engine is [Duck Duck Go](https://duckduckgo.com)
 I really fall for this song! Check it out!
 {{< youtube gQuD-qRixLU >}}
 
+## 11. change font settings
+
+In his beard lived three <span style="color:green">cardinals</span>.
+
+I am in <span style="font-family:Papyrus; font-size:4em;">LOVE!</span>
+
+
+
 ## *this will be everything so far! To be continued*

@@ -1,3 +1,4 @@
+<!-- this overwrite controls the display of additional folders other than post folder -->
 {{ $paginator := .Paginate (where .Data.Pages.ByLastmod.Reverse "Type" "in" (slice "post" "test_folder" "travel" "recipes")) }}
 {{ range $paginator.Pages }}
 

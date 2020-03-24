@@ -1,3 +1,4 @@
+<!--this overwrite removes the if condition. casper or caspertwo of singleViewStyle both show read next recommondation-->
 {{ partial "head" . }}
 
 {{if ne .Site.Params.singleViewStyle "casper"}}<body class="ctsingle">
@@ -25,14 +26,14 @@
     </nav>
 
     {{else}}
-      {{ partial "post-single-sori" . }}
+      {{ partial "post-single" . }} <!--here partial "post-single-sori" will move back the default style to casper-->
     {{end}}
     
     {{ partial "disqus" . }}
   </div>
 </main>
 
-{{if eq .Site.Params.singleViewStyle "caspertwo"}}
+<!--here is where previously if condition stands-->
 <aside class="read-next outer">
   <div class="inner">
     <div class="read-next-feed">      
@@ -48,7 +49,6 @@
 </aside>
 
 {{ partial "header-floating-sori" . }}
-{{end}}
 
 {{ partial "footer" . }}
 </div>

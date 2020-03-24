@@ -1,4 +1,4 @@
-baseurl         = "/"
+baseurl         = "https://nudges.netlify.com/"
 theme           = "duck-hugo"
 languageCode    = "en-US"
 disqusShortname = ""
@@ -41,12 +41,12 @@ hasCJKLanguage  = true
   authorAvatar = "/img/profile.jpg"
   authorLocation = "Munich, DE"
   authorWebsite = "/categories/post/"
-  authorDescription = "An explorer"
+  authorDescription = ""
 
   pageNotFoundTitle = "404 - Page not found"
 
   #casper or caspertwo
-  singleViewStyle = "caspertwo"
+  singleViewStyle = "casper"
 
 [privacy]
   [privacy.googleAnalytics]
@@ -72,6 +72,11 @@ hasCJKLanguage  = true
   name = "About Me"
   url = "/about/"
   weight = 150
+
+[[menu.main]]
+  name = "recipe"
+  url = "/categories/recipe/"
+  weight = 130
 
 [[menu.main]]
   name = "travel"
