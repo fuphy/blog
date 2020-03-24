@@ -1,7 +1,7 @@
 ---
 title: "Celery Chicken Rice"
 date: 2020-03-23T23:33:50+01:00
-draft: true
+draft: false
 tags: ["quarantine"]
 categories: ["recipe"]
 image: https://images2.imgbox.com/ec/6f/uVIfwRZo_o.jpg 
